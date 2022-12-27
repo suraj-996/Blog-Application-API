@@ -27,4 +27,4 @@
 * Upload Image
 * Download Image
 * Search Post
-* CRUD Operation related to user,post,category and comment.
+* CRUD Operation related to user, post, category and comment.
