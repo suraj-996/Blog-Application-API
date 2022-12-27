@@ -1,6 +1,6 @@
 # REST API for Blogging Website.
 
-* We have developed this REST API for an Blogging Website. This API performs all the fundamental CRUD operations of any Blogging Website. platform with user validation at every step.
+* I have developed this REST API for an Blogging Website. This API performs all the fundamental CRUD operations of any Blogging Website. platform with user validation at every step.
 
 ## Tech Stack
 
